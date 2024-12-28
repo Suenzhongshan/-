@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin:0;
+
+}
+
+header
+{
+    background-color:#95a09e;
+    height: 45px;
+    width: 100%;
+}
+nav
+{
+    color:rgb(255, 255, 255);
+}
+footer
+{
+    background-color:black;
+    height: 35px;
+    width: 100%;
+}
+
+
+header a
+{
+    color: white;
+    text-decoration:none;
+}
+header ul
+{
+    position:absolute;
+    right: 0.5vw;
+    top:0;
+    line-height:42px;
+}
+header a:hover
+{
+    text-decoration:underline;
+}
+header li
+{
+    display:inline;
+    margin-right:4vw;
+}
+header h1
+{
+    color:white;
+    position:absolute;
+    left:120px;
+    top:0;
+    line-height: 42px;
+}
+footer p
+{
+    color:white;
+    position:absolute;
+    left:42.5%;
+    line-height:35px;
+}
